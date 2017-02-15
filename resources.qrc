@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/plugins/callejero" >
+        <file>icon.png</file>
+        <file>buscar.ico</file>
+        <file>ira.ico</file>
+        <file>clear.ico</file>
+    </qresource>
+</RCC>
